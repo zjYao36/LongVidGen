@@ -6,18 +6,17 @@ Researchers have explored various approaches to circumvent this constraint, and 
 
 ## 📚 Table of Contents
 1. [Survey & Overview](#survey--overview)
-2. [Story-to-Video Generation](#story-to-video-generation)
-3. [Text-to-Long-Video Generation](#text-to-long-video-generation)
-4. [Image-to-Long-Video / Video Extension](#image-to-long-video--video-extension)
-5. [Consistency & Scene Transition](#consistency--scene-transition)
+2. [Attention Mechanism Innovations](#Attention-Mechanism-Innovations)
+3. [Segmented Generation for Long-Form Videos](#Segmented-Generation)
+4. [Keyframe-Based Long Video Generation](#Keyframe-Based)
+5. [Controllable Generation for Long-Form Videos](#Controllable-Generation)
 6. [Evaluation Metrics for Long Video](#evaluation-metrics-for-long-video)
 
 ---
 
 ## 1. Survey & Overview
 - **Generative AI for Film Creation: A Survey of Recent Advances**  
-  *Year:* 2024 
-  [📄 Paper](https://arxiv.org/abs/2504.08296) 
+  *Year:* 2024  [📄 Paper](https://arxiv.org/abs/2504.08296) 
 
 ---
 
@@ -27,13 +26,16 @@ Researchers have explored various approaches to circumvent this constraint, and 
 As mentioned earlier, the main reason why video generation length is difficult to **scale up** lies in the quadratic time complexity of Transformers. Consequently, a series of methods have been proposed to address this limitation.
 
 - **Long Context Tuning for Video Generation**  
-  *Year:* 2025  
-  [📄 Paper](https://arxiv.org/abs/2503.10589) | [🌐 Project](https://guoyww.github.io/projects/long-context-video/)
+  *Year:* 2025  [📄 Paper](https://arxiv.org/abs/2503.10589) | [🌐 Project](https://guoyww.github.io/projects/long-context-video/)
+
+- **One-Minute Video Generation with Test-Time Training**  
+  *Year:* 2025  [📄 Paper](https://arxiv.org/abs/2504.05298) | [💻 Code](https://github.com/test-time-training/ttt-video-dit)  | [🌐 Project](https://test-time-training.github.io/video-dit/)
 
 
 ---
 
-## 3. Text-to-Long-Video Generation
+## 3. Segmented Generation for Long-Form Videos
+
 - **VideoPoet: A Large Language Model for Zero-Shot Video Generation**  
   *Year:* 2023  
   [📄 Paper](https://arxiv.org/abs/2312.14125) | [🌐 Project](https://videopoet.github.io/)  
@@ -41,7 +43,8 @@ As mentioned earlier, the main reason why video generation length is difficult t
 
 ---
 
-## 4. Image-to-Long-Video / Video Extension
+## 4. Keyframe-Based Long Video Generation
+
 - **Image2VideoXL: Extending Single Images into Minute-Long Videos**  
   *Year:* 2023  
   [📄 Paper](link) | [💻 Code](link)  
@@ -49,7 +52,8 @@ As mentioned earlier, the main reason why video generation length is difficult t
 
 ---
 
-## 5. Consistency & Scene Transition
+## 5. Controllable Generation for Long-Form Videos
+
 - **ConsistDream: Maintaining Scene Consistency in Long Video Generation**  
   *Year:* 2023  
   [📄 Paper](link) | [💻 Code](link)  
