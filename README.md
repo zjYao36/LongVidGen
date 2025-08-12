@@ -16,8 +16,8 @@ A curated list of papers on **long-form video generation**.
 
 ## 1. Survey & Overview
 - **Generative AI for Film Creation: A Survey of Recent Advances**
-   *Year:* 2024 
-   [📄 Paper](https://arxiv.org/abs/2504.08296) 
+  *Year:* 2024 
+  [📄 Paper](https://arxiv.org/abs/2504.08296) 
 
 ---
 
