@@ -21,11 +21,15 @@ Researchers have explored various approaches to circumvent this constraint, and 
 
 ---
 
-## 2. Story-to-Video Generation
-- **StoryDiffusion: Consistent and Controllable Story Visualization with Latent Diffusion Models**  
-  *Year:* 2024  
-  [📄 Paper](https://arxiv.org/abs/2401.01806) | [💻 Code](https://github.com/storydiffusion/storydiffusion)  
-  *Summary:* Generates consistent long videos from storyboards with style control.
+## 2. Attention Mechanism Innovations
+*Breaking the quadratic bottleneck in Transformers for long-form video generation.*
+
+As mentioned earlier, the main reason why video generation length is difficult to **scale up** lies in the quadratic time complexity of Transformers. Consequently, a series of methods have been proposed to address this limitation.
+
+- **Long Context Tuning for Video Generation**  
+  *Year:* 2025  
+  [📄 Paper](https://arxiv.org/abs/2503.10589) | [🌐 Project](https://guoyww.github.io/projects/long-context-video/)
+
 
 ---
 
