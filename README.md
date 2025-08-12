@@ -1,9 +1,65 @@
 # LongVidGen
 This repo summarizes the classification of long video generation papers in recent years
-- **VideoPoet: A Large Language Model for Zero-Shot Video Generation**  
-  [论文链接](https://arxiv.org/abs/2312.14125) | [项目主页](https://videopoet.github.io/)  
-  简介：利用语言模型生成长视频，支持多模态提示。
+# Long Video Generation Papers
 
+A curated list of papers on **long-form video generation**.
+
+---
+
+## 📚 Table of Contents
+1. [Survey & Overview](#survey--overview)
+2. [Story-to-Video Generation](#story-to-video-generation)
+3. [Text-to-Long-Video Generation](#text-to-long-video-generation)
+4. [Image-to-Long-Video / Video Extension](#image-to-long-video--video-extension)
+5. [Consistency & Scene Transition](#consistency--scene-transition)
+6. [Evaluation Metrics for Long Video](#evaluation-metrics-for-long-video)
+
+---
+
+## 1. Survey & Overview
+- **A Survey on Long-form Video Generation**  
+  *Year:* 2024  
+  [📄 Paper](link) | [🌐 Project](link)  
+  *Summary:* Overview of challenges, datasets, and methods for long video generation.
+
+---
+
+## 2. Story-to-Video Generation
 - **StoryDiffusion: Consistent and Controllable Story Visualization with Latent Diffusion Models**  
-  [论文链接](https://arxiv.org/abs/2401.01806) | [代码](https://github.com/storydiffusion/storydiffusion)  
-  简介：分镜一致性与风格可控的长视频生成方法。
+  *Year:* 2024  
+  [📄 Paper](https://arxiv.org/abs/2401.01806) | [💻 Code](https://github.com/storydiffusion/storydiffusion)  
+  *Summary:* Generates consistent long videos from storyboards with style control.
+
+---
+
+## 3. Text-to-Long-Video Generation
+- **VideoPoet: A Large Language Model for Zero-Shot Video Generation**  
+  *Year:* 2023  
+  [📄 Paper](https://arxiv.org/abs/2312.14125) | [🌐 Project](https://videopoet.github.io/)  
+  *Summary:* Uses LLMs for zero-shot text-to-video generation.
+
+---
+
+## 4. Image-to-Long-Video / Video Extension
+- **Image2VideoXL: Extending Single Images into Minute-Long Videos**  
+  *Year:* 2023  
+  [📄 Paper](link) | [💻 Code](link)  
+  *Summary:* Extends a single image into a coherent long video.
+
+---
+
+## 5. Consistency & Scene Transition
+- **ConsistDream: Maintaining Scene Consistency in Long Video Generation**  
+  *Year:* 2023  
+  [📄 Paper](link) | [💻 Code](link)  
+  *Summary:* Ensures temporal and spatial consistency across multiple shots.
+
+---
+
+## 6. Evaluation Metrics for Long Video
+- **LVG-Bench: Benchmark for Long Video Generation**  
+  *Year:* 2024  
+  [📄 Paper](link) | [🌐 Project](link)  
+  *Summary:* Standardized benchmarks for evaluating long video generation.
+
+---
