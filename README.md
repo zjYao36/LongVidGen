@@ -5,12 +5,12 @@ However, existing video foundation models are typically limited to short duratio
 Researchers have explored various approaches to circumvent this constraint, and this repository provides a curated summary of these methods.
 
 ## 📚 Table of Contents
-1. [Survey & Overview](#survey--overview)
-2. [Attention Mechanism Innovations](#Attention-Mechanism-Innovations)
-3. [Segmented Generation for Long-Form Videos](#Segmented-Generation)
-4. [Keyframe-Based Long Video Generation](#Keyframe-Based)
-5. [Controllable Generation for Long-Form Videos](#Controllable-Generation)
-6. [Evaluation Metrics for Long Video](#evaluation-metrics-for-long-video)
+1. [Survey & Overview](#1-survey--overview)
+2. [Attention Mechanism Innovations](#2-attention-mechanism-innovations)
+3. [Segmented Generation for Long-Form Videos](#3-segmented-generation-for-long-form-videos)
+4. [Keyframe-Based Long Video Generation](#4-keyframe-based-long-video-generation)
+5. [Controllable Generation for Long-Form Videos](#5-controllable-generation-for-long-form-videos)
+6. [Evaluation Metrics for Long Video](#6-evaluation-metrics-for-long-video)
 
 ---
 
