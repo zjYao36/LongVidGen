@@ -1,5 +1,3 @@
-# LongVidGen
-This repo summarizes the classification of long video generation papers in recent years
 # Long Video Generation Papers
 
 A curated list of papers on **long-form video generation**.
@@ -17,10 +15,9 @@ A curated list of papers on **long-form video generation**.
 ---
 
 ## 1. Survey & Overview
-- **A Survey on Long-form Video Generation**  
-  *Year:* 2024  
-  [📄 Paper](link) | [🌐 Project](link)  
-  *Summary:* Overview of challenges, datasets, and methods for long video generation.
+ - **Generative AI for Film Creation: A Survey of Recent Advances
+   *Year:* 2024 
+   [📄 Paper](https://arxiv.org/abs/2504.08296) 
 
 ---
 
