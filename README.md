@@ -1,5 +1,5 @@
-# Long Video Generation Papers
-
+# Long Video Generation Papers   
+---
 A curated list of papers on **long-form video generation**.
 ---
 Long-form video generation requires video models to produce multiple semantically coherent video segments while maintaining the ability to generate extended content.   
