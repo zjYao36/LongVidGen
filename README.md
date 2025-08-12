@@ -36,10 +36,11 @@ As mentioned earlier, the main reason why video generation length is difficult t
 
 ## 3. Segmented Generation for Long-Form Videos
 
-- **VideoPoet: A Large Language Model for Zero-Shot Video Generation**  
-  *Year:* 2023  
-  [📄 Paper](https://arxiv.org/abs/2312.14125) | [🌐 Project](https://videopoet.github.io/)  
-  *Summary:* Uses LLMs for zero-shot text-to-video generation.
+- **VideoDirectorGPT: Consistent Multi-scene Video Generation via LLM-Guided Planning**  
+  *Year:* 2023  [📄 Paper](https://arxiv.org/abs/2309.15091) | [🌐 Project](https://videodirectorgpt.github.io/)  
+
+- **Vlogger: Make your dream a vlog**  
+  *Year:* 2024  [📄 Paper](https://arxiv.org/abs/2401.09414) | [💻 Code](https://github.com/Vchitect/Vlogger)  | [🌐 Project](https://zhuangshaobin.github.io/Vlogger.github.io/)
 
 ---
 
