@@ -2,7 +2,9 @@
 
 A curated list of papers on **long-form video generation**.
 ---
-Long-form video generation requires video models to produce multiple semantically coherent video segments while maintaining the ability to generate extended content. However, existing video foundation models are typically limited to short durations (around the 10-second level). This limitation arises because, under the DiT architecture, computational complexity grows rapidly with video length. Researchers have explored various approaches to circumvent this constraint, and this repository provides a curated summary of these methods.
+Long-form video generation requires video models to produce multiple semantically coherent video segments while maintaining the ability to generate extended content.   
+However, existing video foundation models are typically limited to short durations (around the 10-second level). This limitation arises because, under the DiT architecture, computational complexity grows rapidly with video length.   
+Researchers have explored various approaches to circumvent this constraint, and this repository provides a curated summary of these methods.
 
 ## 📚 Table of Contents
 1. [Survey & Overview](#survey--overview)
