@@ -37,12 +37,18 @@ As mentioned earlier, the main reason why video generation length is difficult t
 
 ## 3. Segmented Generation for Long-Form Videos
 
-- **AnimeShooter: A Multi-Shot Animation Dataset for Reference-Guided Video Generation**  
-  *Year:* 2025  [📄 Paper](https://arxiv.org/abs/2506.03126) | [💻 Code](https://github.com/qiulu66/Anime-Shooter?tab=readme-ov-file)  | [🌐 Project](https://qiulu66.github.io/animeshooter/)
+- **TokensGen: Harnessing Condensed Tokens for Long Video Generation**  
+  *Year:* 2025  [📄 Paper](https://arxiv.org/abs/2507.15728) | [💻 Code](https://github.com/Vicky0522/TokensGen) | [🌐 Project](https://vicky0522.github.io/tokensgen-webpage/)
 
 - **AnimeShooter: A Multi-Shot Animation Dataset for Reference-Guided Video Generation**  
   *Year:* 2025  [📄 Paper](https://arxiv.org/abs/2506.03126) | [💻 Code](https://github.com/qiulu66/Anime-Shooter?tab=readme-ov-file)  | [🌐 Project](https://qiulu66.github.io/animeshooter/)
 
+- **AnimeShooter: A Multi-Shot Animation Dataset for Reference-Guided Video Generation**  
+  *Year:* 2025  [📄 Paper](https://arxiv.org/abs/2506.03126) | [💻 Code](https://github.com/qiulu66/Anime-Shooter?tab=readme-ov-file)  | [🌐 Project](https://qiulu66.github.io/animeshooter/)
+
+- **VideoRAG: Retrieval-Augmented Generation with Extreme Long-Context Videos**  
+  *Year:* 2025  [📄 Paper](https://arxiv.org/abs/2502.01549) | [💻 Code](https://github.com/HKUDS/Vimo)
+  
 - **TALC: Time-Aligned Captions for Multi-Scene Text-to-Video Generation**  
   *Year:* 2024  [📄 Paper](https://arxiv.org/abs/2405.04682) | [💻 Code](https://github.com/Hritikbansal/talc)  | [🌐 Project](https://talc-mst2v.github.io/)
 
@@ -64,6 +70,15 @@ As mentioned earlier, the main reason why video generation length is difficult t
 
 ## 4. Keyframe-Based Long Video Generation
 
+- **Captain Cinema: Towards Short Movie Generation**  
+  *Year:* 2025  [📄 Paper](https://arxiv.org/abs/2507.18634) | [🌐 Project](https://thecinema.ai/)
+
+- **VideoAuteur: Towards Long Narrative Video Generation**  
+  *Year:* 2025  [📄 Paper](https://arxiv.org/abs/2501.06173) | [💻 Code](https://github.com/lambert-x/VideoAuteur)  | [🌐 Project](https://videoauteur.github.io/)
+
+- **MOVIEDREAMER: HIERARCHICAL GENERATION FOR COHERENT LONG VISUAL SEQUENCES**  
+  *Year:* 2024  [📄 Paper](https://arxiv.org/abs/2407.16655) | [💻 Code](https://github.com/aim-uofa/MovieDreamer)| [🌐 Project](https://aim-uofa.github.io/MovieDreamer/)
+   
 - **STORYDIFFUSION: CONSISTENT SELF-ATTENTION FOR LONG-RANGE IMAGE AND VIDEO GENERATION**  
   *Year:* 2024  [📄 Paper](https://arxiv.org/abs/2405.01434) | [💻 Code](https://github.com/HVision-NKU/StoryDiffusion)  | [🌐 Project](https://storydiffusion.github.io/)
 
@@ -74,10 +89,11 @@ As mentioned earlier, the main reason why video generation length is difficult t
 
 ## 5. Training-free Long Videos Generation
 
-- **ConsistDream: Maintaining Scene Consistency in Long Video Generation**  
-  *Year:* 2023  
-  [📄 Paper](link) | [💻 Code](link)  
-  *Summary:* Ensures temporal and spatial consistency across multiple shots.
+- **Ouroboros-Diffusion: Exploring Consistent Content Generation in Tuning-free Long Video Diffusion**
+  *Year:* 2025  [📄 Paper](ttps://arxiv.org/abs/2502.15894)
+
+- **RIFLEx: A Free Lunch for Length Extrapolation in Video Diffusion Transformers**
+  *Year:* 2024  [📄 Paper](https://arxiv.org/abs/2502.15894) | [💻 Code](https://github.com/thu-ml/RIFLEx)  | [🌐 Project](https://riflex-video.github.io/)
 
 ---
 
