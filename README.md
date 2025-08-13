@@ -89,8 +89,8 @@ As mentioned earlier, the main reason why video generation length is difficult t
 
 ## 5. Training-free Long Videos Generation
 
-- **Ouroboros-Diffusion: Exploring Consistent Content Generation in Tuning-free Long Video Diffusion**
-  *Year:* 2025  [📄 Paper](ttps://arxiv.org/abs/2502.15894)
+- **Ouroboros-Diffusion: Exploring Consistent Content Generation in Tuning-free Long Video Diffusion**  
+  *Year:* 2025  [📄 Paper](https://arxiv.org/abs/2501.09019)
 
 - **RIFLEx: A Free Lunch for Length Extrapolation in Video Diffusion Transformers**
   *Year:* 2024  [📄 Paper](https://arxiv.org/abs/2502.15894) | [💻 Code](https://github.com/thu-ml/RIFLEx)  | [🌐 Project](https://riflex-video.github.io/)
