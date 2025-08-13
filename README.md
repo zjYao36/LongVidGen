@@ -9,8 +9,9 @@ Researchers have explored various approaches to circumvent this constraint, and 
 2. [Attention Mechanism Innovations](#2-attention-mechanism-innovations)
 3. [Segmented Generation for Long-Form Videos](#3-segmented-generation-for-long-form-videos)
 4. [Keyframe-Based Long Video Generation](#4-keyframe-based-long-video-generation)
-5. [Controllable Generation for Long-Form Videos](#5-controllable-generation-for-long-form-videos)
-6. [Evaluation Metrics for Long Video](#6-evaluation-metrics-for-long-video)
+5. [Training-free Long Videos Generation](#5-training-free-Long-Videos-Generation)
+6. [Controllable Generation for Long-Form Videos](#6-controllable-generation-for-long-form-videos)
+7. [Evaluation Metrics for Long Video](#7-evaluation-metrics-for-long-video)
 
 ---
 
@@ -36,24 +37,42 @@ As mentioned earlier, the main reason why video generation length is difficult t
 
 ## 3. Segmented Generation for Long-Form Videos
 
+- **AnimeShooter: A Multi-Shot Animation Dataset for Reference-Guided Video Generation**  
+  *Year:* 2025  [📄 Paper](https://arxiv.org/abs/2506.03126) | [💻 Code](https://github.com/qiulu66/Anime-Shooter?tab=readme-ov-file)  | [🌐 Project](https://qiulu66.github.io/animeshooter/)
+
+- **AnimeShooter: A Multi-Shot Animation Dataset for Reference-Guided Video Generation**  
+  *Year:* 2025  [📄 Paper](https://arxiv.org/abs/2506.03126) | [💻 Code](https://github.com/qiulu66/Anime-Shooter?tab=readme-ov-file)  | [🌐 Project](https://qiulu66.github.io/animeshooter/)
+
+- **TALC: Time-Aligned Captions for Multi-Scene Text-to-Video Generation**  
+  *Year:* 2024  [📄 Paper](https://arxiv.org/abs/2405.04682) | [💻 Code](https://github.com/Hritikbansal/talc)  | [🌐 Project](https://talc-mst2v.github.io/)
+
+- **Mora: More like Sora for Generalist Video Generation**  
+  *Year:* 2024  [📄 Paper](https://arxiv.org/abs/2403.13248) | [💻 Code](https://github.com/lichao-sun/Mora)  | [🌐 Project](https://llizhaoxu.github.io/moraframework/)
+  
+- **Vlogger: Make your dream a vlog**  
+  *Year:* 2024  [📄 Paper](https://arxiv.org/abs/2401.09414) | [💻 Code](https://github.com/Vchitect/Vlogger)  | [🌐 Project](https://zhuangshaobin.github.io/Vlogger.github.io/)
+  
 - **VideoDirectorGPT: Consistent Multi-scene Video Generation via LLM-Guided Planning**  
   *Year:* 2023  [📄 Paper](https://arxiv.org/abs/2309.15091) | [🌐 Project](https://videodirectorgpt.github.io/)  
 
-- **Vlogger: Make your dream a vlog**  
-  *Year:* 2024  [📄 Paper](https://arxiv.org/abs/2401.09414) | [💻 Code](https://github.com/Vchitect/Vlogger)  | [🌐 Project](https://zhuangshaobin.github.io/Vlogger.github.io/)
+- **Animate-A-Story: Storytelling with Retrieval-Augmented Video Generation**  
+  *Year:* 2023  [📄 Paper](https://arxiv.org/abs/2307.06940) | [💻 Code](https://github.com/AILab-CVC/Animate-A-Story)  | [🌐 Project](https://ailab-cvc.github.io/Animate-A-Story/)
+
+
 
 ---
 
 ## 4. Keyframe-Based Long Video Generation
 
-- **Image2VideoXL: Extending Single Images into Minute-Long Videos**  
-  *Year:* 2023  
-  [📄 Paper](link) | [💻 Code](link)  
-  *Summary:* Extends a single image into a coherent long video.
+- **STORYDIFFUSION: CONSISTENT SELF-ATTENTION FOR LONG-RANGE IMAGE AND VIDEO GENERATION**  
+  *Year:* 2024  [📄 Paper](https://arxiv.org/abs/2405.01434) | [💻 Code](https://github.com/HVision-NKU/StoryDiffusion)  | [🌐 Project](https://storydiffusion.github.io/)
+
+- **VideoStudio: Generating Consistent-Content and Multi-Scene Videos**  
+  *Year:* 2024  [📄 Paper](https://arxiv.org/abs/2401.01256) | [💻 Code](https://github.com/FuchenUSTC/VideoStudio)  | [🌐 Project](https://vidstudio.github.io/)
 
 ---
 
-## 5. Controllable Generation for Long-Form Videos
+## 5. Training-free Long Videos Generation
 
 - **ConsistDream: Maintaining Scene Consistency in Long Video Generation**  
   *Year:* 2023  
@@ -62,7 +81,16 @@ As mentioned earlier, the main reason why video generation length is difficult t
 
 ---
 
-## 6. Evaluation Metrics for Long Video
+## 6. Controllable Generation for Long-Form Videos
+
+- **ConsistDream: Maintaining Scene Consistency in Long Video Generation**  
+  *Year:* 2023  
+  [📄 Paper](link) | [💻 Code](link)  
+  *Summary:* Ensures temporal and spatial consistency across multiple shots.
+
+---
+
+## 7. Evaluation Metrics for Long Video
 - **LVG-Bench: Benchmark for Long Video Generation**  
   *Year:* 2024  
   [📄 Paper](link) | [🌐 Project](link)  
