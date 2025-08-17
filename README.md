@@ -43,9 +43,6 @@ As mentioned earlier, the main reason why video generation length is difficult t
 - **AnimeShooter: A Multi-Shot Animation Dataset for Reference-Guided Video Generation**  
   *Year:* 2025  [📄 Paper](https://arxiv.org/abs/2506.03126) | [💻 Code](https://github.com/qiulu66/Anime-Shooter?tab=readme-ov-file)  | [🌐 Project](https://qiulu66.github.io/animeshooter/)
 
-- **AnimeShooter: A Multi-Shot Animation Dataset for Reference-Guided Video Generation**  
-  *Year:* 2025  [📄 Paper](https://arxiv.org/abs/2506.03126) | [💻 Code](https://github.com/qiulu66/Anime-Shooter?tab=readme-ov-file)  | [🌐 Project](https://qiulu66.github.io/animeshooter/)
-
 - **VideoRAG: Retrieval-Augmented Generation with Extreme Long-Context Videos**  
   *Year:* 2025  [📄 Paper](https://arxiv.org/abs/2502.01549) | [💻 Code](https://github.com/HKUDS/Vimo)
   
