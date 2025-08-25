@@ -32,6 +32,9 @@ As mentioned earlier, the main reason why video generation length is difficult t
 - **One-Minute Video Generation with Test-Time Training**  
   *Year:* 2025  [📄 Paper](https://arxiv.org/abs/2504.05298) | [💻 Code](https://github.com/test-time-training/ttt-video-dit)  | [🌐 Project](https://test-time-training.github.io/video-dit/)
 
+- **History-Guided Video Diffusion**  
+  *Year:* 2025  [📄 Paper](https://arxiv.org/abs/2502.06764) | [💻 Code](https://github.com/kwsong0113/diffusion-forcing-transformer)  | [🌐 Project](https://www.boyuan.space/history-guidance/)
+
 
 ---
 
