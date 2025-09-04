@@ -26,6 +26,9 @@ Researchers have explored various approaches to circumvent this constraint, and 
 
 As mentioned earlier, the main reason why video generation length is difficult to **scale up** lies in the quadratic time complexity of Transformers. Consequently, a series of methods have been proposed to address this limitation.
 
+- **Mixture of Contexts for Long Video Generation**  
+  *Year:* 2025  [📄 Paper](https://arxiv.org/abs/2508.21058) | [💻 Code]()  | [🌐 Project](https://primecai.github.io/moc/)
+  
 - **Long Context Tuning for Video Generation**  
   *Year:* 2025  [📄 Paper](https://arxiv.org/abs/2503.10589) | [🌐 Project](https://guoyww.github.io/projects/long-context-video/)
 
@@ -35,7 +38,9 @@ As mentioned earlier, the main reason why video generation length is difficult t
 - **History-Guided Video Diffusion**  
   *Year:* 2025  [📄 Paper](https://arxiv.org/abs/2502.06764) | [💻 Code](https://github.com/kwsong0113/diffusion-forcing-transformer)  | [🌐 Project](https://www.boyuan.space/history-guidance/)
 
-
+- **TODO**  
+  *Year:* 2025  [📄 Paper]() | [💻 Code]()  | [🌐 Project]()
+  
 ---
 
 ## 3. Segmented Generation for Long-Form Videos
