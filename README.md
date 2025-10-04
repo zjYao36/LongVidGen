@@ -17,8 +17,11 @@ Researchers have explored various approaches to circumvent this constraint, and 
 
 ## 1. Survey & Overview
 - **Generative AI for Film Creation: A Survey of Recent Advances**  
-  *Year:* 2024  [📄 Paper](https://arxiv.org/abs/2504.08296) 
-
+  *Year:* 2024  [📄 Paper](https://arxiv.org/abs/2504.08296)
+  
+- **A Survey on Long-Video Storytelling Generation: Architectures, Consistency, and Cinematic Quality**  
+  *Year:* 2025  [📄 Paper](https://arxiv.org/pdf/2507.07202)
+  
 ---
 
 ## 2. Attention Mechanism Innovations
