@@ -10,8 +10,9 @@ Researchers have explored various approaches to circumvent this constraint, and 
 3. [Segmented Generation for Long-Form Videos](#3-segmented-generation-for-long-form-videos)
 4. [Keyframe-Based Long Video Generation](#4-keyframe-based-long-video-generation)
 5. [Training-free Long Videos Generation](#5-training-free-Long-Videos-Generation)
-6. [Controllable Generation for Long-Form Videos](#6-controllable-generation-for-long-form-videos)
-7. [Evaluation Metrics for Long Video](#7-evaluation-metrics-for-long-video)
+6. [AR Long Videos Generation](#6-ar-Long-Videos-Generation)
+7. [Controllable Generation for Long-Form Videos](#7-controllable-generation-for-long-form-videos)
+8. [Evaluation Metrics for Long Video](#8-evaluation-metrics-for-long-video)
 
 ---
 
@@ -105,7 +106,23 @@ As mentioned earlier, the main reason why video generation length is difficult t
 
 ---
 
-## 6. Controllable Generation for Long-Form Videos
+## 6. AR Long Videos Generation
+
+- **History-Guided Video Diffusion**  
+  *Year:* 2025  [📄 Paper](https://arxiv.org/abs/2502.06764) | [💻 Code](https://github.com/kwsong0113/diffusion-forcing-transformer)  | [🌐 Project](https://www.boyuan.space/history-guidance/)
+
+- **Self Forcing: Bridging the Train-Test Gap in Autoregressive Video Diffusion**  
+  *Year:* 2025  [📄 Paper](https://arxiv.org/abs/2506.08009) | [💻 Code](https://github.com/guandeh17/Self-Forcing)  | [🌐 Project](https://self-forcing.github.io/)
+
+- **Packing Input Frame Context in Next-Frame Prediction Models for Video Generation**  
+  *Year:* 2025  [📄 Paper](https://arxiv.org/abs/2504.12626) | [💻 Code](https://github.com/lllyasviel/FramePack)  | [🌐 Project](https://lllyasviel.github.io/frame_pack_gitpage/)
+
+- **TODO**  
+  *Year:* 2025  [📄 Paper]() | [💻 Code]()  | [🌐 Project]()
+  
+---
+
+## 7. Controllable Generation for Long-Form Videos
 
 - **ConsistDream: Maintaining Scene Consistency in Long Video Generation**  
   *Year:* 2023  
@@ -114,7 +131,7 @@ As mentioned earlier, the main reason why video generation length is difficult t
 
 ---
 
-## 7. Evaluation Metrics for Long Video
+## 8. Evaluation Metrics for Long Video
 - **LVG-Bench: Benchmark for Long Video Generation**  
   *Year:* 2024  
   [📄 Paper](link) | [🌐 Project](link)  
