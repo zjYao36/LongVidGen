@@ -94,6 +94,12 @@ As mentioned earlier, the main reason why video generation length is difficult t
 - **VideoStudio: Generating Consistent-Content and Multi-Scene Videos**  
   *Year:* 2024  [📄 Paper](https://arxiv.org/abs/2401.01256) | [💻 Code](https://github.com/FuchenUSTC/VideoStudio)  | [🌐 Project](https://vidstudio.github.io/)
 
+- **VideoGen-of-Thought: Step-by-step generating multi-shot video with minimal manual intervention**  
+  *Year:* 2025  [📄 Paper](https://arxiv.org/abs/2412.02259) | [💻 Code](https://github.com/DuNGEOnmassster/VideoGen-of-Thought)  | [🌐 Project](https://cheliosoops.github.io/VGoT/)
+
+- **HoloCine: Holistic Generation of Cinematic Multi-Shot Long Video Narratives**  
+  *Year:* 2025  [📄 Paper](https://arxiv.org/abs/2510.20822) | [💻 Code](https://github.com/yihao-meng/HoloCine)  | [🌐 Project](https://holo-cine.github.io/)
+
 ---
 
 ## 5. Training-free Long Videos Generation
