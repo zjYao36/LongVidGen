@@ -123,6 +123,9 @@ As mentioned earlier, the main reason why video generation length is difficult t
 - **Packing Input Frame Context in Next-Frame Prediction Models for Video Generation**  
   *Year:* 2025  [📄 Paper](https://arxiv.org/abs/2504.12626) | [💻 Code](https://github.com/lllyasviel/FramePack)  | [🌐 Project](https://lllyasviel.github.io/frame_pack_gitpage/)
 
+- **WorldWeaver: Generating Long-Horizon Video Worlds via Rich Perception**  
+  *Year:* 2025  [📄 Paper](https://arxiv.org/pdf/2508.15720) | [💻 Code]()  | [🌐 Project](https://johanan528.github.io/worldweaver_web/)
+
 - **TODO**  
   *Year:* 2025  [📄 Paper]() | [💻 Code]()  | [🌐 Project]()
   
